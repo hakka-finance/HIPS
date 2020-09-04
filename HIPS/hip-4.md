@@ -5,7 +5,7 @@
 ### Summary
 Withdraw the liquidity from Uniswap, and move to Balancer
 
-### Details
+### Abstract
 In general, Balancer is a more advanced protocol which supports single-side add liquidity. Users can simply provide liquidity with their HAKKA or ETH. There will be more flexibility in the Balancer pool. Also, we have another pool on Balancer. Therefore, we sincerely invite all the Hakka community to vote for or against this change and express your opinion.
 
 Express your opinion and discuss on: https://discord.gg/bw9gKJ
