@@ -29,4 +29,4 @@ https://medium.com/hakkafinance/governance-roadmap-4c39ff5f35a7
 ### Options
 1. Great! Let's initiate pool #3
 2. No. Do NOT initiate pool #3
-3. I habe no idea
+3. I have no idea
