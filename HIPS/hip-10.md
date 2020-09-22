@@ -10,7 +10,7 @@ To determine the HAKKA mining allocation of the 4th week regarding 3 reward pool
 
 Pool #1 requires the deposit of BHSc$
 Pool #2 requires the deposit of BPT (90% BHSc$ / 4% DAI / 4% USDC / 2% HAKKA)
-Pool #3 require the deposit of BPT (50% BHSc$ / 50% HAKKA)
+Pool #3 requires the deposit of BPT (50% BHSc$ / 50% HAKKA)
 
 
 In HIP-10, we sincerely invite all community members to vote and share your opinions with us regarding the mining allocation in the 4th week of liquidity mining.
