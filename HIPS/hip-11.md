@@ -1,6 +1,6 @@
 | hip | title | author | created | duration | Snapshot Block Number |
 |----------|:----------:|:----------:|:----------:|:----------:|:----------:|
-| 11 | Adjust the Swap Fee of BlackHoleSwap | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd | 2020-09-25 12:00 | 1 | 10932256 |
+| 11 | Adjust the Swap Fee of BlackHoleSwap | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd | 2020-09-25 14:00 | 3 | 10932256 |
 
 ### Summary
 How about adjusting the Swap Fee for BlackHoleSwap
