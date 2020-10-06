@@ -1,6 +1,6 @@
 | hip | title | author | created | duration | Snapshot Block Number |
 |----------|:----------:|:----------:|:----------:|:----------:|:----------:|
-| 20 | Vesting period for mining reward | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd | 2020-09-29 12:30 | 1 | 11002222 |
+| 20 | Vesting period for mining reward | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd | 2020-10-06 12:30 | 1 | 11002222 |
 
 ### Summary
 Vesting period for HAKKA mining reward
