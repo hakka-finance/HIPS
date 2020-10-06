@@ -19,3 +19,4 @@ For your information, there was 0.1M HAKKA reward allocated to pool #1 in the 5t
 2. 0.1 M (Stay the same)
 3. 0.05 M
 4. 0 (Close the pool #1)
+
