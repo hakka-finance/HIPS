@@ -1,18 +1,21 @@
 | hip | title | author | created | duration | Snapshot Block Number |
 |----------|:----------:|:----------:|:----------:|:----------:|:----------:|
-| 20 | Vesting period for mining reward | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd | 2020-09-29 12:30 | 1 | 11002222 |
+| 16 | Mining for pool #1 in the 6th week | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd | 2020-10-06 12:30 | 1 | 11002222 |
+
 
 ### Summary
-Vesting period for HAKKA mining reward
+To determine the HAKKA mining allocated to pool #1 in the 6th week
 
 ### Details
 
-To stablize the supply of HAKKA, we would like to introduce a vesting period for HAKKA mining reward. Once this feature implemented, HAKKA reward will be locked up for a certain period, which will be determined by another HIP thereafter.
+HAKKA Reward Pool #1 requires the deposit of BHSc$.
 
-By doing so, we may align interest of liquidity providers, users, and HAKKA holders. However, this act might reduce potencial user acquisition as well.
+In the 6th week of HAKKA liquidity mining, HAKKA holders are given the rights to determine specific mining allocation in each pool.
 
-We sincerely invite all the HAKKA holders to vote for or against this feature.
+For your information, there was 0.1M HAKKA reward allocated to pool #1 in the 5th week.
 
 ### Options
-1. Yes. Let's do it!
-2. No. Do not introduce it.
+1. 0.15 M
+2. 0.1 M (Stay the same)
+3. 0.05 M
+4. 0 (Close the pool #1)
