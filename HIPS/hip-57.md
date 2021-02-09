@@ -1,5 +1,3 @@
-# HIP-57
-
 | hip | title | author | created | duration | Snapshot Block Number |
 |----------|:----------:|:----------:|:----------:|:----------:|:----------:|
 | 57 | Mining for pool #2 in the 24th week | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd | 2021-02-09 13:00 | 1 | 11822390 |
